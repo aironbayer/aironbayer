@@ -31,5 +31,19 @@ Atualmente, venho desenvolvendo projetos em **Python**, com foco em **web scrapi
 
 ---
 
+## 🧠 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/aironbayer/tjdf-scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aironbayer&repo=tjdf-scraper&theme=radical" />
+</a>
+
+<a href="https://github.com/aironbayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aironbayer&repo=aironbayer&theme=radical" />
+</a>
+
+</div>
+
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
