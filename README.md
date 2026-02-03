@@ -2,11 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Oi,%20eu%20sou%20o%20Airon%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## 💫 Sobre mim
-Me chamo **Airon Bayer**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, automação e dados. 
-
-Atualmente, venho desenvolvendo projetos em **Python**, com foco em **web scraping**, **automações** e **análise de dados**.  
-
-💡 Minha transição de carreira do Direito para a Tecnologia me ensinou a unir **raciocínio lógico, visão estratégica e inovação** — criando soluções inteligentes que simplificam o complexo.  
+Me chamo **Airon Bayer**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, desenvolvimento, automação e dados. 
 
 ---
 
